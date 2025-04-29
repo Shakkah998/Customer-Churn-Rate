@@ -1,2 +1,2 @@
 # Customer Churn Rate 
-Analyzing customer churn rate for Data label Using Power BI
+Analyzing customer churn rate for Data label Using Excel
