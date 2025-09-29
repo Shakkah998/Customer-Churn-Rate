@@ -47,5 +47,4 @@ The goal is to track churn patterns, identify customer segments most at risk, an
 - Some customer groups (specific plans or usage patterns) show significantly higher churn.  
 - Retention is stronger among certain segments, suggesting targeted engagement strategies could reduce churn.  
 
-```md
-![Churn Dashboard Overview](images/Overview.png)
+```
