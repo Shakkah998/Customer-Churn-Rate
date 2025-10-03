@@ -17,8 +17,7 @@ The goal is to track churn patterns, identify customer segments most at risk, an
 ---
 
 ## 📂 Data Source  
-- Customer dataset (subscriptions, cancellations, and usage information).  
-- Rows: ~5,000 | Columns: CustomerID, Gender, Age, Plan Type, Monthly Usage, Churn  
+- Customer dataset (subscriptions, cancellations, and usage information).   
 - Data cleaned and transformed in Excel prior to analysis.  
 - **Dataset Download Link:** [Download Dataset](link_to_your_dataset_file)
 
