@@ -52,4 +52,4 @@ The goal is to track churn patterns, identify customer segments most at risk, an
 
 ## 🖼 Results / Screenshot  
 **Dashboard Preview:**  
-![Dashboard Screenshot](images/dashboard.png)  
+![Dashboard Screenshot]Overview.png
