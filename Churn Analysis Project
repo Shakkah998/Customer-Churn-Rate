@@ -1,0 +1,9 @@
+My-Project/
+│
+├── data/              
+│   └── dataset.xlsx
+│
+├── images/             
+│   └── dashboard.png
+│
+└── README.md           ← ملف الوصف تبع المشروع
