@@ -52,4 +52,4 @@ The goal is to track churn patterns, identify customer segments most at risk, an
 
 ## 🖼 Results / Screenshot  
 **Dashboard Preview:**  
-![Dashboard Screenshot]https://github.com/Shakkah998/Customer-Churn-Rate/blob/c82df85ad1540267d0c66818259d25ce252d2e3f/Overview.png
+![Dashboard Screenshot](https://github.com/Shakkah998/Customer-Churn-Rate/blob/c82df85ad1540267d0c66818259d25ce252d2e3f/Overview.png)
