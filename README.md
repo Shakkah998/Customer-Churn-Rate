@@ -16,13 +16,6 @@ The goal is to track churn patterns, identify customer segments most at risk, an
 
 ---
 
-## 📂 Data Source  
-- Customer dataset (subscriptions, cancellations, and usage information).   
-- Data cleaned and transformed in Excel prior to analysis.  
-- **Dataset Link:** https://github.com/Shakkah998/Customer-Churn-Rate/blob/106a13ba8c45451573df2546fc59435539f9f873/Dataset
-
----
-
 ## 🛠 Tools & Techniques  
 - **Microsoft Excel**  
   - Pivot Tables & Pivot Charts  
